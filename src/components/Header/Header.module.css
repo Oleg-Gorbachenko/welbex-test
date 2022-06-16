@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #3498db;
+    border-radius: 8px 8px 0 0;
+    color: #ECECF9;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+}

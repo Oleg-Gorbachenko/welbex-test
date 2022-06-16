@@ -1,0 +1,27 @@
+.tableMainBlock {
+    display: flex;
+    justify-content: center;
+    word-wrap: break-word;
+    text-align: center;
+    color: #2D2E46;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    padding: 5px;
+    border: 2px solid #3498db;
+}
+
+.tableMainBlock th, td {
+    padding: 5px 10px;
+    vertical-align: middle;
+}
+
+.trStyle {
+    border-radius: 10px;
+    color: #ECECF9;
+    background-color: #3498db;
+}
+
+tr:nth-child(2n) {
+    background: #e8edff;
+}
